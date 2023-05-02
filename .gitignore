@@ -1,0 +1,10 @@
+test*
+__pycache__
+log
+
+settings.py
+venv
+.vscode
+admin
+psy-fix.js
+_clear_db.py
